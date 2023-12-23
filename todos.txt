@@ -1,0 +1,21 @@
+
+## Analyze the wireframe ##
+1. Identify the fonts and integrate them into the typography.
+2. Identify patterns and reusable components for scalable code.
+
+## SCSS Todos ##
+1. Set up SCSS for a more modern approach.
+2. Define variables and create a color palette for the project.
+3. Implement media queries.
+
+## Images todos ##
+1. Incorporate images using the lazy-load-image-component package.
+https://www.npmjs.com/package/react-lazy-load-image-component
+
+2. Import the TypeScript types for TypeScript compatibility.
+https://www.npmjs.com/package/@types/react-lazy-load-image-component
+
+3. Follow the best practices for uploading images, as outlined in the tutorial:
+** 7 Ways to Use Images in ReactJS | React Images Tutorial | Learn ReactJS Assets Handling
+https://www.youtube.com/watch?v=U07wzhfu66M&t=549s&ab_channel=WebStylePress
+
